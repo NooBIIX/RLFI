@@ -13,3 +13,5 @@
 
 **image_visualization.py**: Qualitative evaluation about the effectiveness of RL agent injection.
 
+## Pics
+Figures showing the RLFI results.
